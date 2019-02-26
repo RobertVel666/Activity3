@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css?family=Inconsolata|Lobster');
+
+html{
+        font-family: Inconsolata;
+        background-color: paleturquoise;
+}
+
+.header{
+    color: white;
+    font-size: 20px;
+    background-color: springgreen;
+    padding: 10px;
+    margin: auto;
+    width: 40%;
+    text-align: center;
+}
+
+.measures{
+    color: white;
+    background-color: cadetblue;
+    padding: 10px;
+    margin: auto;
+    width: 40%;
+    
+}
+
+.colrs{
+    color: white;
+    background-color: cadetblue;
+    padding: 10px;
+    margin: auto;
+    width: 40%;
+}
+
+.h4
+{
+    background-color: palevioletred;
+}
+
+.aaa{
+    padding: 10px;
+    margin: auto;
+    width: 40%;
+    border: 1px black solid;
+    position: absolute;
+}
+
+.h1,.h2,.h3{
+    background-color: aqua;
+    font-size: 25px;
+}
+
+.footer{
+    width: 40%;
+    background-color: chartreuse;
+    padding: 10px;
+    margin: auto;
+}
